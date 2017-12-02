@@ -1,0 +1,108 @@
+#include <LiquidCrystal.h>
+
+// initialize the library with the numbers of the interface pins
+LiquidCrystal lcd(13, 12, 4, 5, 6, 7);
+
+// these constants describe the pins. They won't change:
+const int r1 = 2;             // analog input pin 4 -- ground
+const int r2 = 3;              // analog input pin 5 -- voltage
+const int xpin = A0;                  // x-axis of the accelerometer
+const int ypin = A1;                  // y-axis
+//const int zpin = A2;                 
+const int gas = A2; 
+const int force = A3; 
+const int piezo = A4; 
+int x,y,z,g,f,p;
+
+void setup() {
+  // initialize the serial communications:
+  Serial.begin(9600);
+
+  // Provide ground and power by using the analog inputs as normal
+  // digital pins.  This makes it possible to directly connect the
+  // breakout board to the Arduino.  If you use the normal 5V and
+  // GND pins on the Arduino, you can remove these lines.
+  lcd.begin(16, 2);
+  // Print a message to the LCD.
+ //lcd.print("hello, world!");
+  pinMode(r1, OUTPUT);
+  pinMode(r2, OUTPUT);
+  digitalWrite(r1, LOW);
+  digitalWrite(r2, LOW);
+  digitalWrite(r1, HIGH);
+}
+
+void loop() {
+  // print the sensor values:
+  x= analogRead(xpin); 
+  
+  lcd.setCursor(0, 0);
+  lcd.print("X:");
+  lcd.print((x/100));
+  lcd.print((x%100)/10);
+  lcd.print((x%10));
+  
+  y= analogRead(ypin);  
+
+  lcd.setCursor(6, 0);
+  lcd.print("Y:");
+  lcd.print((y/100));
+  lcd.print((y%100)/10);
+  lcd.print((y%10));
+
+
+  g= analogRead(gas);  
+
+  lcd.setCursor(0, 1);
+  lcd.print("G:");
+  lcd.print((g/100));
+  lcd.print((g%100)/10);
+  lcd.print((g%10));
+
+  f= analogRead(force);  
+
+  lcd.setCursor(6, 1);
+  lcd.print("F:");
+  lcd.print((f/100));
+  lcd.print((f%100)/10);
+  lcd.print((f%10));
+
+  p= analogRead(piezo);  
+
+  lcd.setCursor(11, 1);
+  lcd.print("P:");
+  lcd.print((p/100));
+  lcd.print((p%100)/10);
+  lcd.print((p%10));
+
+  
+  
+  Serial.print("A");
+  Serial.print((x/100));
+  Serial.print((x%100)/10);
+  Serial.print((x%10));
+  
+   Serial.print("B");
+  Serial.print((y/100));
+  Serial.print((y%100)/10);
+  Serial.print((y%10));
+
+   Serial.print("C");
+  Serial.print((g/100));
+  Serial.print((g%100)/10);
+  Serial.print((g%10));
+
+  Serial.print("D");
+  Serial.print((f/100));
+  Serial.print((f%100)/10);
+  Serial.print((f%10));
+
+  Serial.print("E");
+  Serial.print((p/100));
+  Serial.print((p%100)/10);
+  Serial.print((p%10));
+  
+
+  // delay before next reading:
+ delay(400);
+}
