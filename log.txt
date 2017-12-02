@@ -1,0 +1,322 @@
+PH=0 Humidity=0 Temperature=31 6:36:54 PM
+
+PH=0 Humidity=0 Temperature=31 6:36:55 PM
+
+PH=0 Humidity=0 Temperature=31 6:36:56 PM
+
+PH=0 Humidity=0 Temperature=31 6:36:57 PM
+
+PH=0 Humidity=0 Temperature=31 6:36:58 PM
+
+PH=0 Humidity=0 Temperature=31 6:36:59 PM
+
+PH=0 Humidity=0 Temperature=31 6:37:00 PM
+
+PH=0 Humidity=0 Temperature=31 6:37:01 PM
+
+PH=0 Humidity=0 Temperature=31 6:37:03 PM
+
+PH=0 Humidity=0 Temperature=31 6:37:04 PM
+
+PH=0 Humidity=0 Temperature=31 6:37:05 PM
+
+PH=0 Humidity=0 Temperature=31 6:37:06 PM
+
+PH=0 Humidity=0 Temperature=31 6:37:07 PM
+
+PH=0 Humidity=0 Temperature=31 6:37:08 PM
+
+PH=0 Humidity=0 Temperature=31 6:37:09 PM
+
+PH=0 Humidity=0 Temperature=31 6:37:10 PM
+
+PH=0 Humidity=0 Temperature=31 6:37:11 PM
+
+PH=0 Humidity=0 Temperature=31 6:37:12 PM
+
+PH=0 Humidity=0 Temperature=31 6:37:13 PM
+
+PH=0 Humidity=0 Temperature=31 6:37:14 PM
+
+PH=0 Humidity=0 Temperature=31 6:37:15 PM
+
+PH=0 Humidity=0 Temperature=31 6:37:16 PM
+
+PH=103 Pressure=0 Temperature=32 Viscosity= 7:09:49 PM
+
+PH=103 Pressure=0 Temperature=32 Viscosity=255 7:09:50 PM
+
+PH=103 Pressure=0 Temperature=32 Viscosity=255 7:09:51 PM
+
+PH=0 Pressure=0 Temperature=32 Viscosity=255 7:09:52 PM
+
+PH=0 Pressure=13 Temperature=32 Viscosity=255 7:09:53 PM
+
+PH=0 Pressure=13 Temperature=32 Viscosity=255 7:09:54 PM
+
+PH=0 Pressure=13 Temperature=32 Viscosity=255 7:09:55 PM
+
+PH= Pressure= Temperature=32 Viscosity=255 7:10:55 PM
+
+PH= Pressure= Temperature=32 Viscosity=255 7:10:56 PM
+
+PH=0 Pressure= Temperature=32 Viscosity=255 7:10:57 PM
+
+PH=0 Pressure= Temperature=32 Viscosity=255 7:10:58 PM
+
+PH=0 Pressure= Temperature=32 Viscosity=255 7:10:59 PM
+
+PH=0 Pressure= Temperature=32 Viscosity=255 7:11:00 PM
+
+PH=0 Pressure= Temperature=32 Viscosity=255 7:11:01 PM
+
+PH=0 Pressure= Temperature=32 Viscosity=255 7:11:02 PM
+
+PH=0 Pressure=13 Temperature=32 Viscosity=255 7:11:03 PM
+
+PH=0 Pressure=13 Temperature=32 Viscosity=255 7:11:04 PM
+
+PH=0 Pressure=13 Temperature=32 Viscosity=255 7:11:05 PM
+
+PH=0 Pressure=13 Temperature=32 Viscosity=255 7:11:06 PM
+
+PH=0 Pressure=13 Temperature=31 Viscosity=255 7:11:07 PM
+
+PH=0 Pressure=13 Temperature=31 Viscosity=255 7:11:08 PM
+
+PH=0 Pressure=13 Temperature=31 Viscosity=255 7:11:09 PM
+
+PH=0 Pressure=13 Temperature=31 Viscosity=255 7:11:10 PM
+
+PH=0 Pressure=13 Temperature=31 Viscosity=255 7:11:11 PM
+
+PH=0 Pressure=13 Temperature=31 Viscosity=255 7:11:12 PM
+
+PH=0 Pressure=13 Temperature=31 Viscosity=255 7:11:13 PM
+
+PH=0 Pressure=13 Temperature=31 Viscosity=255 7:11:14 PM
+
+PH=0 Pressure=13 Temperature=31 Viscosity=255 7:11:15 PM
+
+PH=0 Pressure=13 Temperature=31 Viscosity=255 7:11:16 PM
+
+PH=0 Pressure=13 Temperature=31 Viscosity=255 7:11:17 PM
+
+PH=0 Pressure=13 Temperature=31 Viscosity=255 7:11:18 PM
+
+PH=0 Pressure=16 Temperature=31 Viscosity=255 7:11:19 PM
+
+PH=0 Pressure=16 Temperature=31 Viscosity=255 7:11:20 PM
+
+PH=0 Pressure=16 Temperature=31 Viscosity=255 7:11:21 PM
+
+PH=0 Pressure=16 Temperature=31 Viscosity=255 7:11:22 PM
+
+PH=0 Pressure=16 Temperature=31 Viscosity=255 7:11:23 PM
+
+PH=0 Pressure=16 Temperature=31 Viscosity=255 7:11:24 PM
+
+PH=0 Pressure=16 Temperature=31 Viscosity=255 7:11:25 PM
+
+PH=0 Pressure=13 Temperature=31 Viscosity=255 7:11:26 PM
+
+PH=0 Pressure=13 Temperature=31 Viscosity=255 7:11:27 PM
+
+PH=0 Pressure=13 Temperature=31 Viscosity=255 7:11:28 PM
+
+PH=0 Pressure=13 Temperature=31 Viscosity=255 7:11:29 PM
+
+PH=0 Pressure=16 Temperature=31 Viscosity=255 7:11:30 PM
+
+PH=0 Pressure=16 Temperature=31 Viscosity=255 7:11:31 PM
+
+PH=0 Pressure=16 Temperature=31 Viscosity=255 7:11:32 PM
+
+PH=0 Pressure=16 Temperature=31 Viscosity=255 7:11:33 PM
+
+PH=0 Pressure=16 Temperature=31 Viscosity=255 7:11:34 PM
+
+PH=0 Pressure=16 Temperature=31 Viscosity=255 7:11:35 PM
+
+PH=0 Pressure=16 Temperature=31 Viscosity=255 7:11:36 PM
+
+PH=0 Pressure=16 Temperature=31 Viscosity=255 7:11:37 PM
+
+PH=0 Pressure=13 Temperature=31 Viscosity=255 7:11:38 PM
+
+PH=0 Pressure=13 Temperature=31 Viscosity=255 7:11:39 PM
+
+PH=0 Pressure=13 Temperature=31 Viscosity=255 7:11:40 PM
+
+PH=0 Pressure=13 Temperature=31 Viscosity=255 7:11:41 PM
+
+PH=0 Pressure=16 Temperature=31 Viscosity=255 7:11:42 PM
+
+PH=0 Pressure=16 Temperature=31 Viscosity=255 7:11:43 PM
+
+PH=0 Pressure=16 Temperature=31 Viscosity=255 7:11:44 PM
+
+PH=0 Pressure=16 Temperature=31 Viscosity=255 7:11:45 PM
+
+PH=0 Pressure=16 Temperature=31 Viscosity=255 7:11:46 PM
+
+PH=0 Pressure=16 Temperature=31 Viscosity=255 7:11:47 PM
+
+PH=0 Pressure=16 Temperature=31 Viscosity=255 7:11:48 PM
+
+PH=0 Pressure=16 Temperature=31 Viscosity=255 7:11:49 PM
+
+PH=0 Pressure=16 Temperature=31 Viscosity=255 7:11:50 PM
+
+PH=0 Pressure=16 Temperature=31 Viscosity=255 7:11:51 PM
+
+PH=1 Pressure=16 Temperature=31 Viscosity=255 7:11:52 PM
+
+PH=1 Pressure=16 Temperature=31 Viscosity=255 7:11:53 PM
+
+PH=1 Pressure=16 Temperature=31 Viscosity=255 7:11:54 PM
+
+PH=1 Pressure=16 Temperature=31 Viscosity=255 7:11:55 PM
+
+PH=1 Pressure=16 Temperature=31 Viscosity=255 7:11:56 PM
+
+PH=1 Pressure=16 Temperature=31 Viscosity=255 7:11:57 PM
+
+PH=1 Pressure=16 Temperature=31 Viscosity=255 7:11:58 PM
+
+PH=0 Pressure=16 Temperature=31 Viscosity=255 7:11:59 PM
+
+PH=0 Pressure=16 Temperature=31 Viscosity=255 7:12:00 PM
+
+PH=0 Pressure=16 Temperature=31 Viscosity=255 7:12:01 PM
+
+PH=0 Pressure=16 Temperature=31 Viscosity=255 7:12:02 PM
+
+PH=0 Pressure=16 Temperature=31 Viscosity=255 7:12:03 PM
+
+PH=0 Pressure=16 Temperature=31 Viscosity=255 7:12:04 PM
+
+PH=0 Pressure=13 Temperature=32 Viscosity=255 7:12:05 PM
+
+PH=0 Pressure=13 Temperature=32 Viscosity=255 7:12:06 PM
+
+PH=0 Pressure=13 Temperature=32 Viscosity=255 7:12:07 PM
+
+PH=0 Pressure=13 Temperature=32 Viscosity=255 7:12:08 PM
+
+PH=0 Pressure=16 Temperature=32 Viscosity=255 7:12:09 PM
+
+PH=0 Pressure=16 Temperature=32 Viscosity=255 7:12:10 PM
+
+PH=0 Pressure=16 Temperature=32 Viscosity=255 7:12:11 PM
+
+PH=0 Pressure=16 Temperature=32 Viscosity=255 7:12:12 PM
+
+PH=0 Pressure=16 Temperature=32 Viscosity=255 7:12:13 PM
+
+PH=0 Pressure=16 Temperature=32 Viscosity=255 7:12:14 PM
+
+PH=0 Pressure=16 Temperature=32 Viscosity=255 7:12:15 PM
+
+PH=0 Pressure=16 Temperature=32 Viscosity=255 7:12:16 PM
+
+PH=0 Pressure=16 Temperature=32 Viscosity=255 7:12:17 PM
+
+PH=0 Pressure=16 Temperature=32 Viscosity=255 7:12:18 PM
+
+PH=0 Pressure=16 Temperature=32 Viscosity=255 7:12:19 PM
+
+PH=0 Pressure=16 Temperature=32 Viscosity=255 7:12:20 PM
+
+PH=0 Pressure=16 Temperature=32 Viscosity=255 7:12:21 PM
+
+PH=0 Pressure=16 Temperature=32 Viscosity=255 7:12:22 PM
+
+PH=0 Pressure=16 Temperature=32 Viscosity=255 7:12:23 PM
+
+PH=0 Pressure=16 Temperature=32 Viscosity=255 7:12:24 PM
+
+PH=0 Pressure=16 Temperature=32 Viscosity=255 7:12:25 PM
+
+PH=0 Pressure=16 Temperature=32 Viscosity=255 7:12:26 PM
+
+PH=0 Pressure=16 Temperature=32 Viscosity=255 7:12:27 PM
+
+PH=0 Pressure=16 Temperature=31 Viscosity=255 7:12:28 PM
+
+PH=0 Pressure=16 Temperature=31 Viscosity=255 7:12:29 PM
+
+PH=0 Pressure=16 Temperature=31 Viscosity=255 7:12:30 PM
+
+PH=0 Pressure=16 Temperature=31 Viscosity=255 7:12:31 PM
+
+PH=0 Pressure=16 Temperature=31 Viscosity=255 7:12:32 PM
+
+PH=0 Pressure=16 Temperature=31 Viscosity=255 7:12:33 PM
+
+PH=0 Pressure=16 Temperature=31 Viscosity=255 7:12:34 PM
+
+PH=0 Pressure=16 Temperature=31 Viscosity=255 7:12:35 PM
+
+PH=0 Pressure=16 Temperature=31 Viscosity=255 7:12:36 PM
+
+PH=0 Pressure=16 Temperature=31 Viscosity=255 7:12:37 PM
+
+PH=0 Pressure=16 Temperature=31 Viscosity=255 7:12:38 PM
+
+PH=0 Pressure=16 Temperature=31 Viscosity=255 7:12:39 PM
+
+PH=0 Pressure=13 Temperature=31 Viscosity=255 7:12:40 PM
+
+PH=0 Pressure=13 Temperature=31 Viscosity=255 7:12:41 PM
+
+PH=0 Pressure=13 Temperature=31 Viscosity=255 7:12:42 PM
+
+PH=0 Pressure=13 Temperature=31 Viscosity=255 7:12:43 PM
+
+PH=0 Pressure=16 Temperature=31 Viscosity=255 7:12:44 PM
+
+PH=0 Pressure=16 Temperature=31 Viscosity=255 7:12:45 PM
+
+PH=0 Pressure=16 Temperature=31 Viscosity=255 7:12:46 PM
+
+PH=0 Pressure=16 Temperature=31 Viscosity=255 7:12:47 PM
+
+PH=0 Pressure=16 Temperature=31 Viscosity=255 7:12:48 PM
+
+PH=0 Pressure=16 Temperature=31 Viscosity=255 7:12:49 PM
+
+PH=0 Pressure=16 Temperature=31 Viscosity=255 7:12:50 PM
+
+PH=0 Pressure=16 Temperature=32 Viscosity=255 7:12:51 PM
+
+PH=0 Pressure=16 Temperature=32 Viscosity=255 7:12:52 PM
+
+PH=0 Pressure=16 Temperature=32 Viscosity=255 7:12:53 PM
+
+PH=0 Pressure=16 Temperature=32 Viscosity=255 7:12:54 PM
+
+PH=0 Pressure=16 Temperature=32 Viscosity=255 7:12:55 PM
+
+PH=0 Pressure=16 Temperature=32 Viscosity=255 7:12:56 PM
+
+PH=0 Pressure=16 Temperature=32 Viscosity=255 7:12:57 PM
+
+PH=0 Pressure=16 Temperature=32 Viscosity=255 7:12:58 PM
+
+PH=0 Pressure=16 Temperature=32 Viscosity=255 7:12:59 PM
+
+PH=0 Pressure=16 Temperature=32 Viscosity=255 7:13:00 PM
+
+PH=0 Pressure=16 Temperature=32 Viscosity=255 7:13:01 PM
+
+PH=0 Pressure=16 Temperature=32 Viscosity=255 7:13:02 PM
+
+PH=0 Pressure=16 Temperature=31 Viscosity=255 7:13:03 PM
+
+PH=0 Pressure=16 Temperature=31 Viscosity=255 7:13:04 PM
+
+PH=0 Pressure=16 Temperature=31 Viscosity=255 7:13:05 PM
+
+PH=0 Pressure=16 Temperature=31 Viscosity=255 7:13:06 PM
+
